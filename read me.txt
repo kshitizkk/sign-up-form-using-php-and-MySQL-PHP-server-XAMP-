@@ -1,0 +1,11 @@
+in this assignment i have used :-
+php,css and HTML
+Database using XAMP server (php MyAdmin)
+Database name:- signup
+table name-: info
+
+1) open sign up page
+2) you will get the option to register yourself your email and password is saved into the database "signup".
+3)there will be two other options "login" and "reset".
+4)after clicking on login you have to enter your email and password , both the details will be verfied from the database if it is registered then you will be logged in and "welcome" message will be displayed otherwise it will generate an error.
+5)by click on reset button you will be allowed to chage your password , and password will be updated on the database.
